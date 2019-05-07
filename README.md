@@ -22,4 +22,6 @@ Miscellaneous collection of analysis, simulation and investigation notebooks. Li
 - Plot card layout using networkx with above information incorporated.
 
 
-[ancestry_plot]: https://github.com/rokkuran/notebooks/output/ancestry_generational_map_plot.png
+[ancestry_plot]: https://github.com/rokkuran/notebooks/blob/master/output/ancestry_generational_map_plot.png
+
+
