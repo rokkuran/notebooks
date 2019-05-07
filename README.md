@@ -10,6 +10,8 @@ Miscellaneous collection of analysis, simulation and investigation notebooks. Li
 - Determination of Most Common Recent Ancestor (MCRA), implied common ancestors, no descendent nodes and indentical ancestors generation;
 - Graph plot of ancestor generation map containing above information, split out by generations.
 
+![Ancestry Generational Map Plot][ancestry_plot]
+
 
 ## Arboretum Game Model/Analysis
 **notebook**: arboretum.ipynb
@@ -20,3 +22,4 @@ Miscellaneous collection of analysis, simulation and investigation notebooks. Li
 - Plot card layout using networkx with above information incorporated.
 
 
+[ancestry_plot]: https://github.com/rokkuran/notebooks/output/ancestry_generational_map_plot.png
